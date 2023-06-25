@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="28" total="29" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-25T13:14:41 CDT" name="Default suite" finished-at="2023-06-25T13:15:30 CDT" duration-ms="49548">
+    <groups>
+    </groups>
+    <test started-at="2023-06-25T13:14:41 CDT" name="Default test" finished-at="2023-06-25T13:15:30 CDT" duration-ms="49548">
+      <class name="com.tests.SeleniumAutomaitonGitHub.tests.AutomationScriptsSalesforceTestNG">
+        <test-method signature="verifyTabCustomization_to_salesforce_testscript_TestCase35()[pri:30, instance:com.tests.SeleniumAutomaitonGitHub.tests.AutomationScriptsSalesforceTestNG@662b4c69]" started-at="2023-06-25T13:14:41 CDT" name="verifyTabCustomization_to_salesforce_testscript_TestCase35" finished-at="2023-06-25T13:15:30 CDT" duration-ms="49523" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTabCustomization_to_salesforce_testscript_TestCase35 -->
+      </class> <!-- com.tests.SeleniumAutomaitonGitHub.tests.AutomationScriptsSalesforceTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.tests.SeleniumAutomaitonGitHub.tests.AutomationScriptsSalesforceTestNG">
+        <methods>
+          <include name="verifyTabCustomization_to_salesforce_testscript_TestCase35"/>
+        </methods>
+      </class> <!-- com.tests.SeleniumAutomaitonGitHub.tests.AutomationScriptsSalesforceTestNG -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
